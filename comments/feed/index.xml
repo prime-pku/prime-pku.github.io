@@ -11,11 +11,11 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>PKU Research in Intelligent Analog/Mixed-Signal Electronics</description>
-	<lastBuildDate>Wed, 01 Dec 2021 15:08:32 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Feb 2022 02:41:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 </channel>
 </rss>
