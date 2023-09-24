@@ -11,19 +11,11 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>PKU Research in Intelligent Analog/Mixed-Signal Electronics</description>
-<<<<<<< HEAD
-<<<<<<< HEAD
 	<lastBuildDate>Fri, 22 Sep 2023 16:57:36 +0000</lastBuildDate>
-=======
-	<lastBuildDate>Sat, 15 Jul 2023 05:32:54 +0000</lastBuildDate>
->>>>>>> parent of a15e4fc (deadline update)
-=======
-	<lastBuildDate>Sat, 15 Jul 2023 05:42:00 +0000</lastBuildDate>
->>>>>>> parent of 7443d2a (updated to chinese version)
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>
