@@ -76,6 +76,23 @@ img.emoji {
 
 h1 {
 	display: none;
+}
+
+
+.wp-block-gallery .wp-block-image {
+    margin: 15px !important;
+}
+
+
+.wp-block-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.wp-block-gallery .wp-block-image {
+    width: calc((100% / 5) - 15px); /* 4 is the number of columns; adjust -20px based on your margin */
+    box-sizing: border-box; /* Ensures padding and border are included in the width calculation */
 }</style>
 			<style id="egf-frontend-styles" type="text/css">p {} h1 {font-family: 'Arial', sans-serif;font-style: normal;font-weight: 400;} h2 {font-family: 'Arial', sans-serif;font-style: normal;font-weight: 400;} h3 {font-family: 'Arial', sans-serif;font-style: normal;font-weight: 400;} h4 {font-family: 'Arial', sans-serif;font-style: normal;font-weight: 400;} h5 {} h6 {}</style>
 	</head>
@@ -91,6 +108,7 @@ h1 {
 <li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="./../research/index.html" itemprop="url"><span itemprop="name">RESEARCH</span></a></li>
 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-19"><a href="./index.html" aria-current="page" itemprop="url"><span itemprop="name">PUBLICATION</span></a></li>
 <li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="./../people/index.html" itemprop="url"><span itemprop="name">PEOPLE</span></a></li>
+<li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876"><a href="./../gallery/index.html" itemprop="url"><span itemprop="name">Gallery</span></a></li>
 <li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="./../contact/index.html" itemprop="url"><span itemprop="name">CONTACT</span></a></li>
 <li id="menu-item-429-zh" class="lang-item lang-item-4 lang-item-zh lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-429-zh"><a href="./../zh/publication_cn/index.html" hreflang="zh-CN" lang="zh-CN" itemprop="url"><span itemprop="name">中文</span></a></li>
 </ul></div></nav><div class="site-inner"><div class="wrap"><div class="content-sidebar-wrap"><main class="content"><article class="post-10 page type-page status-publish entry" aria-label="Publications" itemscope itemtype="https://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Publications</h1>
